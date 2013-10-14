@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: *
-Copyright: Copyright 2013 I Heart Engineering <code@iheartengineering.com>
+Copyright: Copyright 2013 NE Automation <code@neautomation.com>
 License: BSD-3-clause
- Copyright (c) 2013, I Heart Engineering
+ Copyright (c) 2013, NE Automation
  All rights reserved.
  .
  Redistribution and use in source and binary forms, with or without
